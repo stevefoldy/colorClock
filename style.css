@@ -1,0 +1,8 @@
+.clock-class {
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 10vw;
+}
